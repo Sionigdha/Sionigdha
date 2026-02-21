@@ -17,7 +17,7 @@ Currently contributing to **GDAL** and building end-to-end projects involving re
 - **Learning Disability Screening System**  
   Web-based screening platform with multiple interactive diagnostic modules.
 
-- **IoT Monitoring Dashboard**  
+- **IoT Monitoring dashboard**  
   Full-stack IoT system using a mock machine, backend APIs, InfluxDB, and a real-time dashboard UI.
 ---
 > *Focused on writing clean, understandable code and contributing meaningfully to open source.*
